@@ -2,7 +2,7 @@ pdftotiff
 =========
 
 pdftotiff script that uses mupdf and libtiff-tools
-to generate a 600dpi b/w G4-encoded multipage TIFF.
+to generate a 300dpi b/w G4-encoded multipage TIFF.
 
 usage
 ========
